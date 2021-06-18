@@ -282,6 +282,18 @@ body {
     margin-bottom: 16px;
 }
 
+.contact-details a {
+    color: #FFF;
+}
+
+.contact-details a:hover {
+    color: #F0E68C
+}
+
+.social-media li {
+    display: inline-block;
+}
+
 .social-media img {
     vertical-align: top;
 }
